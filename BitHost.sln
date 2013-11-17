@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{0F0CD9C9-0DF2-4567-ABD0-543772BE8D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{35DDFE4E-8F2F-4CBF-B1D7-4D8BE2E5E05F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0CD9C9-0DF2-4567-ABD0-543772BE8D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0CD9C9-0DF2-4567-ABD0-543772BE8D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0CD9C9-0DF2-4567-ABD0-543772BE8D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0CD9C9-0DF2-4567-ABD0-543772BE8D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DDFE4E-8F2F-4CBF-B1D7-4D8BE2E5E05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DDFE4E-8F2F-4CBF-B1D7-4D8BE2E5E05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DDFE4E-8F2F-4CBF-B1D7-4D8BE2E5E05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DDFE4E-8F2F-4CBF-B1D7-4D8BE2E5E05F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
