@@ -8,5 +8,5 @@ See http://youtu.be/jy1z61VS5U0 for a demo
 This was written in about 3 hours or so.
 There are still bugs and connections sometimes get lost.
 
-I recommend upgrading your PyBitmessage client for GPU or wou will
+I recommend upgrading your PyBitmessage client for GPU or you will
 wait a long time for websites to load.
